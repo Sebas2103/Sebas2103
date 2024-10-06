@@ -1,8 +1,8 @@
-# 💫 About Me:
+# ❤️‍🔥 About Me 🎆  :
 👨‍💻 Desarrollador web con experiencia en HTML, CSS, JavaScript, PHP, MySQL y Python. Estudiante de ingeniería informática y participante en concursos de programación.🔭 
 
 
-## 🌐 Socials:
+## ♠️ Socials ♦️:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sebastianndp) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@sebastianndp) 
 
 # 💻 Tech Stack:
@@ -16,6 +16,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=Sebas2103&theme=prussian&no-frame=true&no-bg=false&margin-w=4)
 
 ---
+## Views
 [![](https://visitcount.itsvg.in/api?id=Sebas2103&icon=0&color=1)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
