@@ -1,32 +1,33 @@
-# ❤️‍🔥 About Me 🌠 
-👨‍💻 Desarrollador web con experiencia en HTML, CSS, JavaScript, PHP, MySQL y Python. Estudiante de ingeniería informática y participante en concursos de programación.🔭 
+# Hola, soy Juan 👋
 
+Desarrollador web y estudiante de Ingeniería Informática en Medellín, Colombia.
+Tengo experiencia en desarrollo web con PHP, JavaScript y Python, y actualmente
+estoy trabajando con **ASP.NET Core MVC, Entity Framework Core y SQL Server**.
+Participo en concursos de programación y busco [prácticas / proyectos freelance / mi primer empleo como desarrollador].
 
-## ♠️ Socials ♦️ 
-<p align="left">
-<a href="https://instagram.com/sebastianndp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sebastianndp" height="30" width="40" /></a>
-</p>
+## Proyectos destacados
 
-<!-- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sebastianndp) -->
- [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@sebastianndp) 
+- **[AcademiaMarcial](https://github.com/Sebas2103/AcademiaMarcial)**: aplicación web ASP.NET Core MVC con SQL Server, EF Core Code First, migraciones y CRUD con relación 1:N entre disciplinas y alumnos.
+- **[Nombre de otro proyecto](enlace)**: [una línea con qué hace y con qué tecnologías].
+- **[Nombre de otro proyecto](enlace)**: [una línea].
 
-# 👨‍💻 Tech Stack
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-# 📈 GitHub Stats 🗓️
+## Tecnologías
 
-![](https://github-readme-stats.vercel.app/api?username=Sebas2103&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Sebas2103&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sebas2103&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+**Backend:** ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
-## 🏆 GitHub Trophies 🏋️  
-![](https://github-profile-trophy.vercel.app/?username=Sebas2103&theme=prussian&no-frame=true&no-bg=false&margin-w=4)
+**Frontend:** ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
----
-##  🌌Views 👀
-[![](https://visitcount.itsvg.in/api?id=Sebas2103&icon=0&color=1)](https://visitcount.itsvg.in)
+**Bases de datos y herramientas:** ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-  ## 💎 You can help me by Donating 🪙
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/JuanPalacio479) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/juansebastiandiazpalacio86) 
+## Estoy aprendiendo
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- Arquitectura de aplicaciones web y patrones de diseño
+- Buenas prácticas con Entity Framework Core
+
+## Contacto
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](TU_ENLACE_DE_LINKEDIN)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:TU_CORREO)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/sebastianndp)
+
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Sebas2103&layout=compact&hide_border=true)
