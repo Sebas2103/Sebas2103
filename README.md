@@ -9,7 +9,7 @@ Participo en concursos de programación y busco [prácticas / proyectos freelanc
 
 - **[AcademiaMarcial](https://github.com/Sebas2103/AcademiaMarcial-EFCore.git)**: aplicación web ASP.NET Core MVC con SQL Server, EF Core Code First, migraciones y CRUD con relación 1:N entre disciplinas y alumnos.
 * [WillPower HelpDesk](https://github.com/Sebas2103/Willpower-HelpDesk.git): sistema de mesa de ayuda para el Centro Médico Armonía (cliente ficticio) que gestiona tickets de soporte por roles (personal, agente y coordinador), con historial de estados, comentarios y notificaciones. Desarrollado en equipo con PHP orientado a objetos (MySQLi, consultas preparadas, sesiones y contraseñas con bcrypt), endpoints JSON, MySQL, HTML, CSS, JavaScript (fetch/AJAX) y Bootstrap. Gestionado con Jira y XAMPP.
-* [Giving – Donaciones Solidarias](https://github.com/Sebas2103/ENLACE-AQUI): plataforma web para donaciones solidarias desarrollada con HTML, PHP y MySQL (XAMPP), con base de datos propia y conexión mediante MySQL.
+* [Giving – Donaciones Solidarias](https://github.com/Sebas2103/Giving.git): plataforma web para donaciones solidarias desarrollada con HTML, PHP y MySQL (XAMPP), con base de datos propia y conexión mediante MySQL.
 
 ## Tecnologías
 
