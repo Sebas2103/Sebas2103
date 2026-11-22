@@ -7,7 +7,7 @@ Participo en concursos de programación y busco [prácticas / proyectos freelanc
 
 ## Proyectos destacados
 
-- **[AcademiaMarcial](https://github.com/Sebas2103/AcademiaMarcial)**: aplicación web ASP.NET Core MVC con SQL Server, EF Core Code First, migraciones y CRUD con relación 1:N entre disciplinas y alumnos.
+- **[AcademiaMarcial](https://github.com/Sebas2103/AcademiaMarcial-EFCore.git)**: aplicación web ASP.NET Core MVC con SQL Server, EF Core Code First, migraciones y CRUD con relación 1:N entre disciplinas y alumnos.
 - **[Nombre de otro proyecto](enlace)**: [una línea con qué hace y con qué tecnologías].
 - **[Nombre de otro proyecto](enlace)**: [una línea].
 
